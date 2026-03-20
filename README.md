@@ -1,30 +1,129 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Das</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">🚀 MCA Final Year Student | Backend Developer | MERN Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthadas03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthadas03" alt="siddharthadas03" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures & Algorithms (for placements)**
-
-- 👨‍💻 All of my projects are available at [https://siddhartha-das-portfolio.vercel.app/](https://siddhartha-das-portfolio.vercel.app/)
-
-- 💬 Ask me about **MERN stack, backend development,java or project building strategies**
-
-- 📫 How to reach me **siddharthadas620@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view?usp=drive_link](https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view?usp=drive_link)
-
-- ⚡ Fun fact **I enjoy cooking and love building projects that solve real-life problems**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhartha-das-826783268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhartha-das-826783268" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthadas03&show_icons=true&locale=en&layout=compact" alt="siddharthadas03" /></p>
+### 👨‍💻 About Me
+- 🎓 MCA Final Year Student (Gold Medalist 🥇)
+- 🔭 Currently building **real-world scalable backend systems**
+- 🌱 Learning **Data Structures & Algorithms (Placement Focused)**
+- 💡 Strong interest in **System Design & Backend Architecture**
+- 🍳 Fun fact: I enjoy cooking & solving real-life problems through tech
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthadas03&show_icons=true&locale=en" alt="siddharthadas03" /></p>
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Languages
+`C` `Java` `Python` `JavaScript`
+
+#### 🌐 Web Development
+`HTML` `CSS` `React.js` `Node.js` `Express.js`
+
+#### 🗄️ Database & Tools
+`MongoDB` `Oracle` `Postman` `Git`
+
+#### ⚙️ Backend & Others
+`REST APIs` `Spring Boot` `Kafka (Learning)`
+
+---
+
+### 📌 Projects
+🔗 Portfolio:  
+👉 https://siddhartha-das-portfolio.vercel.app/
+
+## 🚀 Projects - Showcase
+
+<table>
+<tr>
+<td width="33%">
+
+### 🧑‍💼 Job Portal  
+<img src="https://via.placeholder.com/300x180"/>
+
+Full-stack job platform with authentication & APIs  
+
+🔗 <a href="https://github.com/your-repo-link">Repo</a>  
+🔗 <a href="#">Demo</a>  
+
+<b>Tags:</b> MERN, REST API  ,JWT
+
+</td>
+
+<td width="33%">
+
+### 📊 Food Prediction  
+<img src="https://via.placeholder.com/300x180"/>
+
+AI-based system to predict food demand  
+
+🔗 <a href="#">Repo</a>  
+
+<b>Tags:</b> ML, Backend  
+
+</td>
+
+<td width="33%">
+
+### ⚙️ Music player
+<img src="https://via.placeholder.com/300x180"/>
+
+music player
+
+🔗 <a href="#">Repo</a>  
+
+<b>Tags:</b> HTML,CSS JAVASCTRIPT
+
+</td>
+</tr>
+</table>
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/siddhartha-das-826783268" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+📧 Email: **siddharthadas620@gmail.com**  
+
+📄 Resume:  
+👉 https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view?usp=drive_link  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthadas03&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthadas03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddharthadas03/siddharthadas03/output/github-contribution-grid-snake.svg" />
+</p>
+---
+
+### 🏆 Achievements
+- 🥇 **Gold Medalist in BCA**
+- 🧠 Consistent Academic Performer
+- 💻 Built multiple backend-driven projects
+
+---
+
+### 🎯 Current Focus
+- Cracking **placements**
+- Strengthening **DSA + Problem Solving**
+- Building **high-quality backend projects**
+
+---
+
+⭐ *"Focused on growth, consistency, and building impactful systems."*
