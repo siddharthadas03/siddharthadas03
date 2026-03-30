@@ -97,14 +97,18 @@ music player
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthadas03&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=siddharthadas03&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthadas03&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html,css" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharthadas03&theme=tokyonight" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
