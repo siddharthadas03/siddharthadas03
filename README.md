@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 MCA Final Year Student (Gold Medalist 🥇)
+- 🎓 MCA Final Year Student (BCA Gold Medalist 🥇)
 - 🔭 Currently building **real-world scalable backend systems**
 - 🌱 Learning **Data Structures & Algorithms (Placement Focused)**
 - 💡 Strong interest in **System Design & Backend Architecture**
