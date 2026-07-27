@@ -1,133 +1,202 @@
-<h1 align="center">Hi 👋, I'm Siddhartha Das</h1>
-<h3 align="center">🚀 MCA Final Year Student | Backend Developer | MERN Stack Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+# Siddhartha Das
+
+### Backend Developer • MERN Stack • System Design Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Engineer;REST+API+Developer;System+Design+Learner;Open+Source+Enthusiast" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/siddharthadas03?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/siddharthadas03?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```java
+class SiddharthaDas {
+
+    String role = "Backend Developer";
+
+    String[] languages = {
+        "Java",
+        "JavaScript",
+        "Python",
+        "C"
+    };
+
+    String[] backend = {
+        "Node.js",
+        "Express.js",
+        "REST API",
+        "JWT Authentication"
+    };
+
+    String[] database = {
+        "MongoDB",
+        "Oracle SQL"
+    };
+
+    String[] learning = {
+        "System Design",
+        "Kafka",
+        "Spring Boot",
+        "Microservices"
+    };
+
+}
+```
+
+- 🎓 MCA Graduate | BCA Gold Medalist 🥇
+- 💻 Passionate about Backend Engineering
+- ⚙️ Building scalable REST APIs
+- 📚 Learning Distributed Systems & System Design
+- 🚀 Looking for Software Development Opportunities
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 MCA Final Year Student (BCA Gold Medalist 🥇)
-- 🔭 Currently building **real-world scalable backend systems**
-- 🌱 Learning **Data Structures & Algorithms (Placement Focused)**
-- 💡 Strong interest in **System Design & Backend Architecture**
-- 🍳 Fun fact: I enjoy cooking & solving real-life problems through tech
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🍽️ **NoPlateEmpty** | AI-powered food waste reduction & NGO donation platform | MERN, JWT, MongoDB |
+| 📑 **AI Notes (RAG)** | Built Retrieval-Augmented Generation from scratch using raw OpenAI APIs | Python, OpenAI API |
+| 💼 **Job Portal** | Full Stack recruitment platform with authentication and admin dashboard | MERN |
+| 🎵 **Music Player** | Responsive music player with custom controls | HTML, CSS, JavaScript |
 
 ---
 
-### 🚀 Tech Stack
+# 🌐 Portfolio
 
-#### 💻 Languages
-`C` `Java` `Python` `JavaScript`
+🌍 **Portfolio**
 
-#### 🌐 Web Development
-`HTML` `CSS` `React.js` `Node.js` `Express.js`
+https://siddhartha-das-portfolio.vercel.app
 
-#### 🗄️ Database & Tools
-`MongoDB` `Oracle` `Postman` `Git`
+📄 **Resume**
 
-#### ⚙️ Backend & Others
-`REST APIs` `Spring Boot` `Kafka (Learning)`
+https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view
 
 ---
 
-### 📌 Projects
-🔗 Portfolio:  
-👉 https://siddhartha-das-portfolio.vercel.app/
+# 📊 GitHub Analytics
 
-## 🚀 Projects - Showcase
+<p align="center">
 
-<table>
-<tr>
-<td width="33%">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthadas03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🧑‍💼 Job Portal  
-<img src="https://via.placeholder.com/300x180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthadas03&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Full-stack job platform with authentication & APIs  
+</p>
 
-🔗 <a href="https://github.com/your-repo-link">Repo</a>  
-🔗 <a href="#">Demo</a>  
-
-<b>Tags:</b> MERN, REST API  ,JWT
-
-</td>
-
-<td width="33%">
-
-### 📊 Food Prediction  
-<img src="https://via.placeholder.com/300x180"/>
-
-AI-based system to predict food demand  
-
-🔗 <a href="#">Repo</a>  
-
-<b>Tags:</b> ML, Backend  
-
-</td>
-
-<td width="33%">
-
-### ⚙️ Music player
-<img src="https://via.placeholder.com/300x180"/>
-
-music player
-
-🔗 <a href="#">Repo</a>  
-
-<b>Tags:</b> HTML,CSS JAVASCTRIPT
-
-</td>
-</tr>
-</table>
 ---
 
-### 📫 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/siddhartha-das-826783268" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthadas03&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddharthadas03&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthadas03&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/siddharthadas03/siddharthadas03/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/siddhartha-das-826783268">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
 
-📧 Email: **siddharthadas620@gmail.com**  
+<a href="mailto:siddharthadas620@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-📄 Resume:  
-👉 https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view?usp=drive_link  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharthadas03&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharthadas03&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddharthadas03/siddharthadas03/output/github-contribution-grid-snake.svg" />
-</p>
----
-
-### 🏆 Achievements
-- 🥇 **Gold Medalist in BCA**
-- 🧠 Consistent Academic Performer
-- 💻 Built multiple backend-driven projects
+- ✅ Master Data Structures & Algorithms
+- ✅ Learn System Design
+- ✅ Build Production-Ready Backend Systems
+- ✅ Contribute to Open Source
+- ✅ Crack Top Product-Based Companies
 
 ---
 
-### 🎯 Current Focus
-- Cracking **placements**
-- Strengthening **DSA + Problem Solving**
-- Building **high-quality backend projects**
+<div align="center">
 
----
+### "Building scalable systems, writing clean code, and solving real-world problems."
 
-⭐ *"Focused on growth, consistency, and building impactful systems."*
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
