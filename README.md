@@ -1,119 +1,157 @@
 <div align="center">
 
-# Siddhartha Das
+# Hi 👋, I'm Siddhartha Das
 
-### Backend Developer • MERN Stack • System Design Enthusiast
+### Backend Engineer • MERN Stack Developer • REST API Developer • System Design Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Engineer;REST+API+Developer;System+Design+Learner;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Engineer;Building+Scalable+REST+APIs;Learning+System+Design+%26+Microservices;Open+to+Software+Development+Roles" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile+Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/siddharthadas03?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/siddharthadas03?style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=siddharthadas03&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/siddharthadas03?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/siddharthadas03?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```java
-class SiddharthaDas {
-
-    String role = "Backend Developer";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "Python",
-        "C"
-    };
-
-    String[] backend = {
-        "Node.js",
-        "Express.js",
-        "REST API",
-        "JWT Authentication"
-    };
-
-    String[] database = {
-        "MongoDB",
-        "Oracle SQL"
-    };
-
-    String[] learning = {
-        "System Design",
-        "Kafka",
-        "Spring Boot",
-        "Microservices"
-    };
-
-}
-```
-
-- 🎓 MCA Graduate | BCA Gold Medalist 🥇
-- 💻 Passionate about Backend Engineering
-- ⚙️ Building scalable REST APIs
-- 📚 Learning Distributed Systems & System Design
-- 🚀 Looking for Software Development Opportunities
+- 🎓 **MCA Graduate (2026)** | **BCA Gold Medalist 🥇**
+- 💻 Backend Developer passionate about building scalable web applications
+- ⚙️ Experienced in **Node.js, Express.js, MongoDB, React, TypeScript**
+- 🔐 Strong understanding of **JWT Authentication, RBAC & REST APIs**
+- 🚀 Interested in **Backend Architecture, System Design & Distributed Systems**
+- 🌱 Currently learning **Kafka, Spring Boot, Microservices & Advanced DSA**
+- 🎯 Open to **Software Development Engineer (SDE)** opportunities
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,materialui,typescript" />
 </p>
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🍽️ **NoPlateEmpty** | AI-powered food waste reduction & NGO donation platform | MERN, JWT, MongoDB |
-| 📑 **AI Notes (RAG)** | Built Retrieval-Augmented Generation from scratch using raw OpenAI APIs | Python, OpenAI API |
-| 💼 **Job Portal** | Full Stack recruitment platform with authentication and admin dashboard | MERN |
-| 🎵 **Music Player** | Responsive music player with custom controls | HTML, CSS, JavaScript |
+## 🍽️ NoPlateEmpty
+
+> **AI-powered food redistribution platform connecting donors and NGOs while reducing food waste.**
+
+### Features
+
+- 🔐 JWT Authentication
+- 👨‍💼 Role-Based Access Control (Admin, Donor, NGO)
+- 📍 MongoDB Geospatial Search
+- 🍱 Food Donation Management
+- 📦 Order Lifecycle Management
+- ☁️ Render + Vercel Deployment
+- 🏗️ MVC Architecture
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB`
+
+🔗 **Repository:** YOUR_REPO_LINK
+
+🔗 **Live Demo:** YOUR_LIVE_LINK
 
 ---
 
-# 🌐 Portfolio
+## 🤖 IntelliNote AI
 
-🌍 **Portfolio**
+> AI-powered note management platform using Google Gemini API.
 
-https://siddhartha-das-portfolio.vercel.app
+### Features
 
-📄 **Resume**
+- AI Note Generation
+- AI Summarization
+- Secure JWT Authentication
+- CRUD Operations
+- Responsive Dashboard
 
-https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Gemini API`
+
+🔗 Repository
+
+---
+
+## 💼 Job Portal
+
+> Full Stack recruitment platform connecting employers and job seekers.
+
+### Features
+
+- User Authentication
+- Resume Upload
+- Role-Based Access
+- REST APIs
+- Admin Dashboard
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+🔗 Repository
+
+---
+
+# 🏗️ Backend Architecture
+
+```text
+React Frontend
+       │
+       ▼
+Express REST API
+       │
+JWT Authentication
+       │
+RBAC Authorization
+       │
+MongoDB Atlas
+```
+
+---
+
+# ☁️ Deployment
+
+| Service | Platform |
+|----------|----------|
+| Frontend | Vercel |
+| Backend | Render |
+| Database | MongoDB Atlas |
 
 ---
 
@@ -129,19 +167,11 @@ https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthadas03&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddharthadas03&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=siddharthadas03&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -157,13 +187,66 @@ https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/siddharthadas03/siddharthadas03/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddharthadas03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable the GitHub Action first.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/siddharthadas03/siddharthadas03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+- 🥇 Gold Medalist in BCA
+- 💻 Built multiple production-ready MERN applications
+- 🚀 Strong Backend Development & REST API Design
+- 🎯 Passionate about Clean Architecture & Scalable Systems
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codingninjas.com/studio/profile/YOUR_CODINGNINJAS_USERNAME">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/siddharthadas03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Portfolio & Resume
+
+🌍 **Portfolio**
+
+https://siddhartha-das-portfolio.vercel.app/
+
+📄 **Resume**
+
+https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view?usp=sharing
 
 ---
 
@@ -172,31 +255,31 @@ https://drive.google.com/file/d/1ZiK0K64dDXgn94Jtlqx2vgX0tlz-QzHs/view
 <p align="center">
 
 <a href="https://www.linkedin.com/in/siddhartha-das-826783268">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:siddharthadas620@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/siddharthadas03">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+<div align="center">
 
-- ✅ Master Data Structures & Algorithms
-- ✅ Learn System Design
-- ✅ Build Production-Ready Backend Systems
-- ✅ Contribute to Open Source
-- ✅ Crack Top Product-Based Companies
+## 💡 Current Focus
+
+🚀 Mastering Backend Development • System Design • Distributed Systems • DSA
 
 ---
 
-<div align="center">
+### ⭐ Building scalable backend systems, one API at a time.
 
-### "Building scalable systems, writing clean code, and solving real-world problems."
-
-⭐ If you like my work, consider giving a star to my repositories!
+**Thanks for visiting my profile! If you like my work, consider starring my repositories.**
 
 </div>
