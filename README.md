@@ -188,11 +188,11 @@ MongoDB Atlas
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/https://leetcode.com/u/qjq2S8e81K/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codingninjas.com/studio/profile/YOUR_CODINGNINJAS_USERNAME">
+<a href="https://www.codingninjas.com/studio/profile/https://www.naukri.com/code360/profile/751d7615-0a27-4dd2-bcd8-81cef4309166">
 <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge"/>
 </a>
 
