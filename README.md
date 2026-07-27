@@ -23,7 +23,7 @@
 - ⚙️ Experienced in **Node.js, Express.js, MongoDB, React, TypeScript**
 - 🔐 Strong understanding of **JWT Authentication, RBAC & REST APIs**
 - 🚀 Interested in **Backend Architecture, System Design & Distributed Systems**
-- 🌱 Currently learning **Kafka, Spring Boot, Microservices & Advanced DSA**
+- 🌱 Currently learning **Generative AI, LLMs, Retrieval-Augmented Generation (RAG), Vector Embeddings & AI-powered Applications**
 - 🎯 Open to **Software Development Engineer (SDE)** opportunities
 
 ---
