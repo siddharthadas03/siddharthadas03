@@ -104,7 +104,10 @@
 
 `React` `Node.js` `MongoDB` `Gemini API`
 
-🔗 Repository
+🔗 Repository https://github.com/siddharthadas03/peblo-ai-notes
+🔗 **Live Demo:**https://peblo-frontend-3k1b.onrender.com/dashboard
+
+
 
 ---
 
@@ -124,7 +127,7 @@
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 Repository
+🔗 Repositoryhttps://github.com/siddharthadas03/JobPortal
 
 ---
 
