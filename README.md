@@ -82,9 +82,9 @@
 
 `React` `TypeScript` `Node.js` `Express.js` `MongoDB`
 
-🔗 **Repository:** YOUR_REPO_LINK
+🔗 **Repository:** https://github.com/siddharthadas03/No-Plate-Empty
 
-🔗 **Live Demo:** YOUR_LIVE_LINK
+🔗 **Live Demo:** https://no-plate-empty-web.onrender.com/
 
 ---
 
